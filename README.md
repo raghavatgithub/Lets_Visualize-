@@ -2,5 +2,5 @@
 Visualization Of Various Algorithms
 
 Algorithm Categories -
-Sorting
-Searching
+1. Sorting
+2. Searching

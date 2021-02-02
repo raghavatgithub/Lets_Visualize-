@@ -8,8 +8,8 @@ A. OPTION'S -
 - Compare the performance Of Various Algorithms on data.
 
 B. Technology -
- -> Frontend -
- -> Backend -
+ - Frontend -
+ - Backend -
  
 C. Algorithm Categories -
 1. Sorting
